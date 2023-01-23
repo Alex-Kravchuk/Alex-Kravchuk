@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Kravchuk</h1>
 <h3 align="center">A junior frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on **a program for a medical clinic.**
+- 🔭 I’m currently working on **the furniture online store.**
 
 - 🌱 I’m currently learning **React ant its environment.**
 
