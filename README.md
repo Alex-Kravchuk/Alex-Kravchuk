@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **the furniture online store.**
 
-- 🌱 I’m currently learning **React ant its environment.**
+- 🌱 I’m currently learning **React and its environment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
